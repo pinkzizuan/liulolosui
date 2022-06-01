@@ -1,0 +1,38 @@
+{
+    "name": "liudiso",
+    "description": "liudiso",
+    "keywords": ["liudiso"],
+    "env": {
+        "AA": {
+            "description": "参数修改",
+            "value": "有动手能力的才修改"
+        },
+        "AUUID": {
+            "description": "填入UUID",
+            "value": "c6c3d113-3755-48cf-8c60-3205473b1754"
+        },
+        "CADDYIndexPage": {
+            "description": "伪装站点",
+            "value": "https://github.com/pinkzizuan/liulolosui/raw/main/bongo.cat.zip"
+        },
+        "CONFIGCADDY": {
+            "description": "请勿修改",
+            "value": "https://raw.githubusercontent.com/pinkzizuan/liulolosui/master/etc/Caddyfile"
+        },
+        "CONFIGXRAY": {
+            "description": "请勿修改",
+            "value": "https://raw.githubusercontent.com/pinkzizuan/liulolosui/master/etc/xray.json"
+        },
+        "ParameterSSENCYPT": {
+            "description": "请勿修改",
+            "value": "chacha20-ietf-poly1305"
+        },
+        "StoreFiles": {
+            "description": "请勿修改",
+            "value": "https://raw.githubusercontent.com/pinkzizuan/liulolosui/master/etc/StoreFiles"
+        }
+    },
+    "website": "https://github.com/pinkzizuan/liulolosui.git",
+    "repository": "https://github.com/pinkzizuan/liulolosui.git",
+    "stack": "container"
+}
